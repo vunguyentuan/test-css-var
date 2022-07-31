@@ -3,3 +3,9 @@ body {
   font: var(--font-sans);
   padding: var(--default-spacing);
 }
+
+@layer base {
+  color: var(--indigo-3);
+  font: var(--font-sans);
+  padding: var(--default-spacing);
+}
